@@ -9,6 +9,7 @@
   "author": "Adriano hilario <adrianoferreira31@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/express": "^4.17.13",
     "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
